@@ -1,2 +1,2 @@
 # Udemy-Python-for-Data-Science-and-Machine-Learning-Bootcamp
-Code Repo with My Solved Exercises From the Udemy Bootcamp
+In this repo I will be uploading my solutions to the Udemy Bootcamp exercises
